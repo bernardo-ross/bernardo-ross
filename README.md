@@ -26,6 +26,9 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 
 ## Alguns projetos
 
+**[Web Design Project](https://github.com/bernardo-ross/web-design-project)**  
+Projeto de criação e personalização de um website utilizando Wix, com foco em composição visual, edição de imagens, organização de layouts e integração de elementos multimídia.
+
 **[Tradutor](https://github.com/bernardo-ross/tradutor)**  
 Um projeto desenvolvido para praticar programação e explorar novas funcionalidades.
 
