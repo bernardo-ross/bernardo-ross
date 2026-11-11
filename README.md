@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Bernardo Ross!
 
-<!--
-**bernardo-ross/bernardo-ross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e gosto de aprender coisas novas, principalmente quando posso colocar o conhecimento em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvimento web. Gosto de criar sites, explorar novas ferramentas e entender melhor como as coisas funcionam por trás de cada projeto.
+
+## Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Tenho interesse em desenvolvimento web e de software.
+- 🌐 Já trabalhei com criação e personalização de sites utilizando Nuvemshop e Wix.
+- 📚 Estudando e praticando programação por meio de projetos próprios.
+- 🚀 Em busca de novos desafios e oportunidades na área de tecnologia.
+
+## Tecnologias e ferramentas
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Nuvemshop
+- Wix
+
+## Alguns projetos
+
+**[Tradutor](https://github.com/bernardo-ross/tradutor)**  
+Um projeto desenvolvido para praticar programação e explorar novas funcionalidades.
+
+**[Nuage de Papier](https://github.com/bernardo-ross/nuage-de-papier)**  
+Personalização de uma loja virtual, trabalhando principalmente com CSS e responsividade.
+
+**[Ada Lovelace](https://github.com/bernardo-ross/site-ada)**  
+Meu primeiro projeto web, desenvolvido durante meus estudos na Programaria. Foi onde comecei a colocar em prática meus conhecimentos de HTML, CSS e JavaScript.
+
+## O que estou buscando
+
+Quero continuar aprendendo, desenvolver projetos cada vez melhores e ganhar experiência trabalhando com tecnologia.
+
+Atualmente, também estou em busca de uma oportunidade de estágio para dar os próximos passos na minha carreira.
+
+---
+
+**Sempre aprendendo e colocando ideias em prática.**
