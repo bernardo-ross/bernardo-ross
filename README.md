@@ -16,12 +16,13 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 
 ## Tecnologias e ferramentas
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
-- Nuvemshop
-- Wix
+![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
+![Nuvemshop](https://img.shields.io/badge/Nuvemshop-181818?style=flat-square)
+![Wix](https://img.shields.io/badge/Wix-181818?style=flat-square&logo=wix&logoColor=white)
 
 ## Alguns projetos
 
