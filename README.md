@@ -9,11 +9,12 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 ## Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Tenho interesse em desenvolvimento web e desenvolvimento de software.
+- 💻 Interesse em desenvolvimento web e desenvolvimento de software.
 - 🌐 Experiência na criação e personalização de sites utilizando Nuvemshop e Wix.
-- 👨‍💻 Desenvolvimento de páginas e sites utilizando VS Code, HTML, CSS e JavaScript.
-- 🖥️ Conhecimentos em configuração e gerenciamento de servidores, máquinas virtuais e ambientes online.
-- 🌎 Experiência com configuração de domínios, DNS e hospedagem de sites.
+- 👨‍💻 Desenvolvimento de páginas e sites com VS Code, HTML, CSS e JavaScript.
+- 🖥️ Conhecimentos em Windows Server 2022, VirtualBox, configuração e gerenciamento de servidores e máquinas virtuais.
+- ⚙️ Experiência prática com IIS, hospedagem de sites, configuração de domínios e DNS.
+- 🗄️ Conhecimentos em MySQL 8.4 e SQL para criação e gerenciamento de bancos de dados.
 - 📚 Sempre estudando e desenvolvendo projetos práticos para aprimorar minhas habilidades.
 - 🚀 Em busca de novos desafios e oportunidades na área de tecnologia.
   
