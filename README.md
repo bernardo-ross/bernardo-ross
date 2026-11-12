@@ -9,11 +9,14 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 ## Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Tenho interesse em desenvolvimento web e de software.
-- 🌐 Já trabalhei com criação e personalização de sites utilizando Nuvemshop e Wix.
-- 📚 Estudando e praticando programação por meio de projetos próprios.
+- 💻 Tenho interesse em desenvolvimento web e desenvolvimento de software.
+- 🌐 Experiência na criação e personalização de sites utilizando Nuvemshop e Wix.
+- 👨‍💻 Desenvolvimento de páginas e sites utilizando VS Code, HTML, CSS e JavaScript.
+- 🖥️ Conhecimentos em configuração e gerenciamento de servidores, máquinas virtuais e ambientes online.
+- 🌎 Experiência com configuração de domínios, DNS e hospedagem de sites.
+- 📚 Sempre estudando e desenvolvendo projetos práticos para aprimorar minhas habilidades.
 - 🚀 Em busca de novos desafios e oportunidades na área de tecnologia.
-
+  
 ## Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
