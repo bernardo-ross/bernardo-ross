@@ -32,7 +32,7 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 
 
 **[E-commerce | Artista Visual](https://github.com/bernardo-ross/ecommerce-artista-visual)**  
-Projeto de personalização e desenvolvimento de uma loja virtual utilizando Yampi, HTML, CSS e JavaScript, com foco em identidade visual, layouts responsivos, elementos animados e integração de player musical. [Acessar loja online](https://beatrizbilker.com.br).
+Projeto de personalização e desenvolvimento de uma loja virtual utilizando Yampi, HTML, CSS e JavaScript, com foco em identidade visual, layouts responsivos, elementos animados e integração de player musical.
 
 **[Web Design Project](https://github.com/bernardo-ross/web-design-project)**  
 Projeto de criação e personalização de um website utilizando Wix, com foco em composição visual, edição de imagens, organização de layouts e integração de elementos multimídia.
